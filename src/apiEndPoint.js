@@ -1,0 +1,1 @@
+export const API_URI = "http://0anti-bug-back0.up.railway.app"
