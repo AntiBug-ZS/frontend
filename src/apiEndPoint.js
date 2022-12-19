@@ -1,1 +1,1 @@
-export const API_URI = "https://0anti-bug-back0.up.railway.app/"
+export const API_URI = "https://0anti-bug-back0.up.railway.app"
